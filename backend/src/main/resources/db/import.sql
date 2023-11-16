@@ -1,0 +1,1 @@
+INSERT INTO public.vehicle (yearofconstruction, id, color, "name") VALUES(2023, nextval('vehicle_id_seq'::regclass), 'red', 'e-Golf');
